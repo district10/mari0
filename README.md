@@ -41,6 +41,8 @@ see more Makefile examples at my other repo: [district10/makesync: Sync via
 make/Makefile, because rsync is BAD, in some
 sense.](https://github.com/district10/makesync).
 
+see javascript port of love game engine and the mari0 port: [Mari0](http://tannerrogalsky.com/mari0/).
+
 refs and see also
 
   - [ILMerge - Microsoft Research](http://research.microsoft.com/en-us/people/mbarnett/ilmerge.aspx)

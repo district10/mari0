@@ -1,5 +1,10 @@
 # Pack Mari0 via Makefile
 
+Theoratically, packing portable love game distribution works only on windows.
+Simply cat `love.exe` and `*.love` will work.
+
+This [Makefile](Makefile) can automate this process: `*.lua` -> `*.love` -> `*.exe`.
+
 ## Prerequirements
 
 ### Windows
@@ -23,11 +28,18 @@
 
 ### Linux
 
-TODO.
+~~TODO.~~ impossible.
+
+We can create win portable on linux, but not possible to create linux portable.
+
+Check out [Learning Lua](http://tangzx.qiniudn.com/post-0101-learning-lua.html)
+for how to build lua from source on linux.
 
 ---
 
-see more Makefile examples at my other repo: [district10/makesync: Sync via make/Makefile, because rsync is BAD, in some sense.](https://github.com/district10/makesync).
+see more Makefile examples at my other repo: [district10/makesync: Sync via
+make/Makefile, because rsync is BAD, in some
+sense.](https://github.com/district10/makesync).
 
 refs and see also
 

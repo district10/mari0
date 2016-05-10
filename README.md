@@ -9,8 +9,9 @@ This [Makefile](Makefile) can automate this process: `*.lua` -> `*.love` -> `*.e
 
 ### Windows
 
--   install **Git for Windows** (with Bash shell & some common utils, we need
-    `make`), my archive: <http://whudoc.qiniudn.com/Git-2.7.2-64-bit.exe>
+-   install **[Git for Windows](https://git-scm.com/download/win)**
+    (contains a Bash shell & some common utils, we need `make` here),
+    my archive: <http://whudoc.qiniudn.com/Git-2.7.2-64-bit.exe>
 
     if you have problems with how to install, check out my blog post: [Git、
     GitHub 和 Windows](http://tangzx.qiniudn.com/post-0044-git-github-notes.html#%E4%B8%8B%E8%BD%BD-git-for-windows).

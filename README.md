@@ -26,7 +26,7 @@ This [Makefile](Makefile) can automate this process: `*.lua` -> `*.love` -> `*.e
     make pack
     ```
 
--   go to `bin/love-0.10.1-win64`, run `mari0.exe`
+-   run `make run`. (or manually go to `bin/love-0.10.1-win64`, double click `mari0.exe`.)
 
     ![](http://whudoc.qiniudn.com/2016/github-mari0-pack.png)
 

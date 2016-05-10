@@ -20,7 +20,7 @@ clean:
 	rm -rf ./$(PUBDIR)/*
 
 run:
-	$(LOVEEXE) $(LOVEGAME)
+	love $(LOVEGAME) || $(LOVEEXE) $(LOVEGAME)
 
 pack: $(LOVEGAMEEXE)
 $(LOVEGAMEEXE): $(LOVEGAME)

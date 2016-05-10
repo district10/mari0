@@ -47,7 +47,7 @@ make `mari0.love` and run:
 ```
 # cd source dir
 make
-love mari0.love
+make run
 ```
 
 ![](http://whudoc.qiniudn.com/2016/github-mari0-linux.png)

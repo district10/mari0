@@ -35,6 +35,10 @@ We can create win portable on linux, but not possible to create linux portable.
 Check out [Learning Lua](http://tangzx.qiniudn.com/post-0101-learning-lua.html)
 for how to build lua from source on linux.
 
+make `mari0.love` and run:
+
+![](http://whudoc.qiniudn.com/2016/github-mari0-linux.png)
+
 ---
 
 see more Makefile examples at my other repo: [district10/makesync: Sync via
